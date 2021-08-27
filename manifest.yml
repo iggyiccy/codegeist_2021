@@ -1,9 +1,9 @@
 modules:
   macro:
-    - key: codegeist-2021-hello-world
+    - key: Random-Dev-Meme-Generator
       function: main
-      title: codegeist_2021
-      description: Inserts Hello world!
+      title: Random Dev Meme Generator
+      description: Get a randomly generated developer meme! Enjoy!
   function:
     - key: main
       handler: index.run
