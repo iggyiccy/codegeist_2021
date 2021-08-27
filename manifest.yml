@@ -1,0 +1,11 @@
+modules:
+  macro:
+    - key: codegeist-2021-hello-world
+      function: main
+      title: codegeist_2021
+      description: Inserts Hello world!
+  function:
+    - key: main
+      handler: index.run
+app:
+  id: ari:cloud:ecosystem::app/5f542190-4539-464e-8102-f1d6460e38c1
