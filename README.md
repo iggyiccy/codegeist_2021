@@ -1,6 +1,12 @@
-# Forge Hello World (Typescript)
+# [Get the Meme Generator App on Atlassian -> Click Me✅](https://developer.atlassian.com/console/install/5f542190-4539-464e-8102-f1d6460e38c1?signature=e5fa0f648990ab876c22e5981f84a55659bdb63e321bcfee760bcfbaa4590f95&product=confluence)
 
-This project contains a Forge app written in Typescript that displays `Hello World!` in a Confluence macro. 
+![https://youtu.be/-3hD49K5kdY](meme_generator.gif)
+
+## Inspiration
+Everyone need a sense of humour in daily life. 
+
+## What it does
+Simply use slash command "/Random Dev Meme Generator" to get a randomly generated developer meme! Enjoy! 
 
 See [developer.atlassian.com/platform/forge/](https://developer.atlassian.com/platform/forge) for documentation and tutorials explaining Forge.
 
