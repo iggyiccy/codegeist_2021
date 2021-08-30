@@ -1,8 +1,6 @@
 # [Get the Meme Generator App on Atlassian -> Click Me✅](https://developer.atlassian.com/console/install/5f542190-4539-464e-8102-f1d6460e38c1?signature=e5fa0f648990ab876c22e5981f84a55659bdb63e321bcfee760bcfbaa4590f95&product=confluence)
 
-![https://youtu.be/-3hD49K5kdY](https://github.com/iggyiccy/codegeist_2021/blob/master/Screen%20Shot%202021-08-28%20at%205.55.20%20pm.png?raw=true)
-
-![https://youtu.be/-3hD49K5kdY](meme_generator.gif)
+![https://youtu.be/-3hD49K5kdY](codegeist_demo.gif)
 
 ## Inspiration
 Everyone need a sense of humour in daily life. 
