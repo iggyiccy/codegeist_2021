@@ -2,6 +2,10 @@
 
 ![https://youtu.be/-3hD49K5kdY](codegeist_demo.gif)
 
+# About 
+
+An application built on top of the Atlassian Confluence platform. After installing the app, simply use slash command "/Random Dev Meme Generator" to get a randomly generated developer meme inside Confluence. Enjoy!
+
 ## Inspiration
 Everyone need a sense of humour in daily life. 
 
